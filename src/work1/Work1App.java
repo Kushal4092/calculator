@@ -35,5 +35,9 @@ public class Work1App  // class header
 		y=y/x;
 		System.out.println("y is now "+ y);
 	}
+	
+	public double sqrt(double number){
+		return Math.sqrt(number);
+	}
 
 }
